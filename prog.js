@@ -12,6 +12,9 @@
 
 console.log(texto)
 console.log(pi)
+console.log("----------------")
 console.log(frase)
+console.log("----------------")
 console.log(texto2)
+console.log("----------------")
 console.log(texto3)
